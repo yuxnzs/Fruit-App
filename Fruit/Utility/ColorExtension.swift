@@ -1,0 +1,31 @@
+import Foundation
+import SwiftUI
+
+extension Color {
+    static let customAppleDark = Color("ColorAppleDark")
+    static let customAppleLight = Color("ColorAppleLight")
+    static let customBlueberryLight = Color("ColorBlueberryLight")
+    static let customBlueberryDark = Color("ColorBlueberryDark")
+    static let customCherryDark = Color("ColorCherryDark")
+    static let customCherryLight = Color("ColorCherryLight")
+    static let customGooseberryLight = Color("ColorGooseberryLight")
+    static let customGooseberryDark = Color("ColorGooseberryDark")
+    static let customGrapeDark = Color("ColorGrapeDark")
+    static let customGrapeLight = Color("ColorGrapeLight")
+    static let customLemonLight = Color("ColorLemonLight")
+    static let customLemonDark = Color("ColorLemonDark")
+    static let customLimeLight = Color("ColorLimeLight")
+    static let customLimeDark = Color("ColorLimeDark")
+    static let customMangoLight = Color("ColorMangoLight")
+    static let customMangoDark = Color("ColorMangoDark")
+    static let customPearLight = Color("ColorPearLight")
+    static let customPearDark = Color("ColorPearDark")
+    static let customPlumLight = Color("ColorPlumLight")
+    static let customPlumDark = Color("ColorPlumDark")
+    static let customPomegranateLight = Color("ColorPomegranateLight")
+    static let customPomegranateDark = Color("ColorPomegranateDark")
+    static let customStrawberryLight = Color("ColorStrawberryLight")
+    static let customStrawberryDark = Color("ColorStrawberryDark")
+    static let customWatermelonLight = Color("ColorWatermelonLight")
+    static let customWatermelonDark = Color("ColorWatermelonDark")
+}
