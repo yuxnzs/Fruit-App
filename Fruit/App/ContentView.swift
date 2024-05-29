@@ -15,7 +15,7 @@ struct ContentView: View {
                 }
             } //: List
             .listStyle(PlainListStyle())
-            .navigationTitle("美味水果")
+            .navigationTitle("水果")
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
                     Button {
