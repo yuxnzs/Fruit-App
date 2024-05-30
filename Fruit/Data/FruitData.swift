@@ -158,7 +158,7 @@ let fruitsData: [Fruit] = [
     ),
     Fruit(
         title: "石榴",
-        headline: "自古以來就被人們喜愛的甜美、鐘形水果，可以酥脆或軟嫩地食用。",
+        headline: "一種多籽的水果，以其甜美和營養價值廣受喜愛。",
         image: "pomegranate",
         gradientColors: [Color("ColorPomegranateLight"), Color("ColorPomegranateDark")],
         description: """
@@ -184,7 +184,7 @@ let fruitsData: [Fruit] = [
     ),
     Fruit(
         title: "梨",
-        headline: "自古以來就受到喜愛的甜美、鐘形水果。可食用時口感脆或軟。",
+        headline: "香甜多汁，細嫩綿密的淡黃色水果，常見於秋冬時節。",
         image: "pear",
         gradientColors: [Color("ColorPearLight"), Color("ColorPearDark")],
         description: """
@@ -220,7 +220,7 @@ let fruitsData: [Fruit] = [
     ),
     Fruit(
         title: "醋栗",
-        headline: "自古以來就受到喜愛的甜味、鐘形水果。可以酥脆或柔軟地食用。",
+        headline: "小巧、酸甜的水果，富含維生素C和抗氧化劑。",
         image: "gooseberry",
         gradientColors: [Color("ColorGooseberryLight"), Color("ColorGooseberryDark")],
         description: """
@@ -244,7 +244,7 @@ let fruitsData: [Fruit] = [
     ),
     Fruit(
         title: "芒果",
-        headline: "甜美、鐘形的水果，自古以來就受到人們的喜愛。可以吃脆的或軟的芒果。",
+        headline: "熱帶風情的國王級水果，肉質綿密香甜，營養價值極高。",
         image: "mango",
         gradientColors: [Color("ColorMangoLight"), Color("ColorMangoDark")],
         description: """
@@ -276,7 +276,7 @@ let fruitsData: [Fruit] = [
     ),
     Fruit(
         title: "西瓜",
-        headline: "自古以來就被人們喜愛的甜美、鐘形水果，可以酥脆或軟嫩地食用。",
+        headline: "夏日的最佳消暑聖品，清爽多汁，富含維生素和抗氧化劑。",
         image: "watermelon",
         gradientColors: [Color("ColorWatermelonLight"), Color("ColorWatermelonDark")],
         description: """
@@ -310,7 +310,7 @@ let fruitsData: [Fruit] = [
     ),
     Fruit(
         title: "櫻桃",
-        headline: "甜美、鐘形的水果，自古以來就受到人們的喜愛。可以吃脆的或軟的櫻桃。",
+        headline: "小巧紅潤的漿果，甜美多汁，富含花青素等營養素。",
         image: "cherry",
         gradientColors: [Color("ColorCherryLight"), Color("ColorCherryDark")],
         description: """
@@ -332,7 +332,7 @@ let fruitsData: [Fruit] = [
     ),
     Fruit(
         title: "葡萄柚",
-        headline: "自古以來就被人們喜愛的甜美、鐘形水果，可以酥脆或軟嫩地食用。",
+        headline: "酸甜多汁的柑橘類水果，富含維生素C和纖維。",
         image: "grapefruit",
         gradientColors: [Color("ColorGrapefruitLight"), Color("ColorGrapefruitDark")],
         description: """
