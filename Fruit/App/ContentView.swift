@@ -8,7 +8,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             List {
-                ForEach(fruits.shuffled()) { item in
+                ForEach(fruits) { item in
                     NavigationLink(destination: FruitDetailView(fruit: item)) {
                         FruitRowView(fruit: item)
                     }
