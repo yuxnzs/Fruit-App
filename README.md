@@ -27,7 +27,7 @@
 
 - **Swift**：負責邏輯撰寫
 
-- **SwiftUI**：透過 `SwiftUI` 製作前端畫面，使用包括 `NavigationStack`、`NavigationLink`、`Toolbar`、`ScrollView`、`DisclosureGroup`、`Sheet`、`@State`、`@AppStorage` 等
+- **SwiftUI**：透過 SwiftUI 製作前端畫面，使用包括 `NavigationStack`、`NavigationLink`、`Toolbar`、`ScrollView`、`DisclosureGroup`、`Sheet`、`@State`、`@AppStorage` 等
 
 
 ## 功能 🚀
